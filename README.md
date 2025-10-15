@@ -1,3 +1,16 @@
+Names :
+
+Grégoire Champourlier : ApparentlyGregz
+Hippolyte Nussbaumer : hippolyte-codeur
+Pablo Gonzalez : papablolo
+Theodore Bricout : TheodoreBricout 
+Nils Giraud : nilsgrd
+Maxence Simonet :
+Adam Kheloufi : Adamkh92
+Maxence SIMONET : maxence808
+
+
+
 # Titanic: Predicting Survival - Hackathon Challenge 🚢
 
 Welcome to the Titanic Survival Prediction challenge! This is a classic data science problem and a perfect way to practice your skills in data exploration, feature engineering, and machine learning.
